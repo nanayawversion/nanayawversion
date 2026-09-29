@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @nanayawversion
-- 👀 I’m interested in technology
+- 👋 Hi, I’m Nana Adu [ @nanayawversion ]
+- 👀 I’m interested in technology & design
 - 🌱 I’m currently learning web coding
-- 💞️ I’m looking to collaborate on graphic designing
+- 💞️ I’m looking to collaborate on graphic design and basic web development
 - 📫 How to reach me on
 
-- Email: brightadu2012@gmail.com
-- LinkedIn:  https://www.linkedin.com/in/bright-adu-b59942198/
-- Instagram: @nanayawversion
+- Gravatar:  https://nanaadu.link
+  
 
 <!---
 nanayawversion/nanayawversion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
