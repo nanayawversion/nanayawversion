@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nana Adu [ @nanayawversion ]
+- 👋 Hi, I’m Nana Adu [ @lenanaadu ]
 - 👀 I’m interested in technology & design
 - 🌱 I’m currently learning web coding
 - 💞️ I’m looking to collaborate on graphic design and basic web development
